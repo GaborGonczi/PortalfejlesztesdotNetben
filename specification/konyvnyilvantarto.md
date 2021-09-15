@@ -9,7 +9,7 @@ Az alkalmazás célja, hogy a felhasználók webes felületen tudják követni a
 
 #### Profil
 
-     A felhasználó itt a fiókjához tartozó  néhány adatot kezelheti: felhasználói név  változtatása, Jelszó változtatása,  e-mailcím változtatása, profil törlése
+  A felhasználó itt a fiókjához tartozó  néhány adatot kezelheti: felhasználói név  változtatása, Jelszó változtatása,  e-mailcím változtatása, profil törlése
 
 #### Saját könyveim
 * Könyvek listázása
